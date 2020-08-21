@@ -11,7 +11,7 @@
 #### Set up Back End
 * Run npm install to get all the necessary dependencies:  
 ```
-$ cd backend  
+$ cd server  
 $ npm install
 ```
 * Start server  
